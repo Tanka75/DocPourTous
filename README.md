@@ -11,5 +11,5 @@ Une IA **GRATUITE** qui transforme **n’importe quelles notes** en :
 - Présentation 3D interactive  
 
 **Pour tous : étudiants, profs, freelances, associations.**  
-Créée par : [TON NOM]  
+Créée par : [Anne-Sophie Barret ]  
 Bientôt en ligne pour le monde entier !
